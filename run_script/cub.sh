@@ -1,0 +1,1 @@
+python ../scripts/cub.py --att_dim 1024 --cla_num 200 --hid_dim 1800 --mid_dim 1600 --tr_cla_num 150 --selected_cla_num 10 --lr 5e-5 --epoch 15 --episode 100 --inner_loop 10 --batch_size 32 --dropout --preprocess --manualSeed 4196
