@@ -9,7 +9,7 @@
     - Tensorflow (r1.4 - r1.12 should work fine)
     - Python 2.7 with matplotlib, numpy and scipy
     
-- **Datasets""
+- **Datasets**
    - download the model from [Google Drive](https://drive.google.com/open?id=1FtIe_SC70jTy2TKp3aKokFozLMQie579) or [Baidu Cloud (bphc)](https://pan.baidu.com/s/1F0GSYAhCPBwVEL4kqqaLww), and unzip the files to ***./data/***,
 
 ## Training & Test
