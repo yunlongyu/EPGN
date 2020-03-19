@@ -1,7 +1,7 @@
 # E-PGN (CVPR-2020)
 **Tensorflow** implementation of 'Episode-based Prototype Generating Network for Zero-Shot Learning'
 
-![image](https://github.com/yunlongyu/EPGN/img/one_episode.png)
+![image](https://github.com/yunlongyu/EPGN/img/master/one_episode.png)
 
 ## Preparation
 
