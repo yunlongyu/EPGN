@@ -1,4 +1,4 @@
-# E-PGN (CVPR-2020)
+# E-PGN 
 **Tensorflow** implementation of 'Episode-based Prototype Generating Network for Zero-Shot Learning'
 
 ![image](https://github.com/yunlongyu/EPGN/blob/master/img/one_episode.png)
@@ -23,13 +23,5 @@ Exemplar commands are listed here for AwA1 dataset.
    ```console
     python ../scripts/1awa.py --att_dim 85 --hid_dim 1800 --mid_dim 1200 --cla_num 50 --tr_cla_num 40 --selected_cla_num 10 --lr 5e-5 --epoch 30 --episode 50 --inner_loop 100 --batch_size 100 --dropout --manualSeed 4198 
    ```
-## Citation
-If you find E-PGN useful in your research work, please consider citing:
 
-    @InProceedings{yu2020episode,
-      title={Episode-based Prototype Generating Network for Zero-Shot Learning},
-      author={Yunlong Yu, Zhong Ji, Jungong Han, Zhongfei Zhang},
-      booktitle={IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
-      year={2020}
-    }
 
